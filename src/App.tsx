@@ -42,7 +42,7 @@ export default function App() {
                     <div className="relative">
                         <div className="rounded-[40px] overflow-hidden shadow-2xl aspect-[4/5] md:aspect-video lg:aspect-[4/5]">
                             <img 
-                                src="https://picsum.photos/seed/doctor_about/800/1000" 
+                                src="https://publicationmaster.com/wp-content/uploads/2023/01/doctor-2027768_1280-1.png" 
                                 alt="About Doctor" 
                                 className="w-full h-full object-cover"
                                 referrerPolicy="no-referrer"
