@@ -79,7 +79,14 @@ export default function Footer() {
           <div className="flex gap-6 text-[10px] text-muted-foreground font-bold uppercase tracking-tight font-sans">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Patient Rights</a>
-            <span className="text-primary/50">Powered by MedPro Elite</span>
+            <a 
+              href="https://www.aitechsolutions.tech/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="text-primary/80 hover:text-primary transition-colors"
+            >
+              DEVELOPED BY AI TECH SOLUTIONS
+            </a>
           </div>
         </div>
       </div>
